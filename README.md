@@ -20,7 +20,7 @@ Here is a video of the sketch you will be making today (click the picture for th
 Some tips:
 
 - You should make a class for the buttons and an ```ArrayList<Button>``` to hold the buttons
-- You should use sin and cos to calculate the positions of the buttons
+- You should use sin and cos to calculate the positions of the buttons. If you cant figure this out, you can place the buttons in a line for a lower mark
 - Make a method void mousePressed() on the sketch to detect mouse pressed
 - To store the sequence of buttons that the user presses you can use either an ```ArrayList<Integer>``` or an ```int[]``` array or an [intlist]()
 - Do your best and figure out as much as you can. Even if you can't get everything working
